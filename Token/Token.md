@@ -1,5 +1,0 @@
-# Boarding Tokens
-
-## Create
-
-## Validate
